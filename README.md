@@ -28,14 +28,15 @@ Hello, I'm Lyna Mazri!
 ## 💻 My Tech Stack
 
 <p>
-    <a href="https://www.java.com/"><img alt="JAVA" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
-	<a href="https://www.nodejs.org/"><img alt="NODEJS" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"></a>
+    <a href="https://www.java.com/"><img alt="JAVA" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>	
     <a href="https://spring.io/"><img alt="SPRING" src="https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
+    <a href="https://www.nodejs.org/"><img alt="NODEJS" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"></a>
     <a href=""><img alt="CSS" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
     <a href="https://developer.android.com/studio"><img alt="ANDROID" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=plastic&logo=android-studio&logoColor=white"></a>
     <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=plastic&logo=android-studio&logoColor=white"></a>
     <a href="https://laravel.com/"><img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"></a>
+	<a href="https://wwww.python.org/"><img alt="PYTHON" src="https://img.shields.io/pypi/pyversions/Django"></a>
     <a href="https://www.postman.com/"><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
