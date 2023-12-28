@@ -37,6 +37,6 @@ Hello, I'm Lyna Mazri!
     <a href="https://developer.android.com/studio"><img alt="ANDROID" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=plastic&logo=android-studio&logoColor=white"></a>
     <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=plastic&logo=android-studio&logoColor=white"></a>
     <a href="https://laravel.com/"><img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"></a>
-	<a href="https://wwww.python.org/"><img alt="PYTHON" src="https://img.shields.io/pypi/pyversions/django&logo=python"></a>
+	<a href="https://wwww.python.org/"><img alt="PYTHON" src="https://img.shields.io/pypi/pyversions/django?logo=python"></a>
     <a href="https://www.postman.com/"><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
