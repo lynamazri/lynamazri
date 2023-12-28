@@ -8,7 +8,7 @@ Hello, I'm Lyna Mazri!
 <hr>
 
 <pre>
-🇩🇿 Based in Constantine, Algeria.
+🌍 Based in Constantine, Algeria.
 📚 I have a bachelor's degree in Software Engineering (2023) from the University of Constantine 2
 📝 I am currently studying to obtain a master's degree in Smart Systems and Software Engineering
 💻 I am mainly a Backend Developer
@@ -29,6 +29,7 @@ Hello, I'm Lyna Mazri!
 
 <p>
     <a href="https://www.java.com/"><img alt="JAVA" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
+	<a href="https://www.nodejs.org/"><img alt="NODEJS" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"></a>
     <a href="https://spring.io/"><img alt="SPRING" src="https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
     <a href=""><img alt="CSS" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
