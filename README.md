@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello, I'm Kibwana Miruru!
+Hello, I'm Lyna Mazri!
 	<a href="https://github.com/Bouaskaoun" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -8,6 +8,7 @@ Hello, I'm Kibwana Miruru!
 <hr>
 
 <pre>
+🇩🇿 Based in Constantine, Algeria.
 📚 I have a bachelor's degree in Software Engineering (2023) from the University of Constantine 2
 📝 I am currently studying to obtain a master's degree in Smart Systems and Software Engineering
 💻 I am mainly a Backend Developer
